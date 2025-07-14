@@ -1,3 +1,9 @@
+Malware used for this static analysis : SHA256 bf166be918695404ec2724b62671d7eac13fd67e39433894439d70a2ce534861 (malware bazaar)
+
+link
+https://bazaar.abuse.ch/sample/bf166be918695404ec2724b62671d7eac13fd67e39433894439d70a2ce534861/
+
+
 **STATIC ANALYSIS SUMMAY**
 TOOLS USER :
    -strings
